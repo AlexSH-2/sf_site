@@ -1,1 +1,3 @@
 Here is a small text-snippet for branch_m.
+
+I commit this file (AlexSH-2).
